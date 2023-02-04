@@ -35,3 +35,12 @@
     </div>
 </div>
 
+---
+
+### My Stats 📊 : 
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorVillalva&theme=halloween&hide_border=true&border_radius=5.5&locale=es&border=EB545400)](https://git.io/streak-stats)
+
+![Victor´s GitHub stats](https://github-readme-stats.vercel.app/api?username=victorvillalva&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorvillalva&layout=tokyonight)](https://github.com/victorvillalva/github-readme-stats)
+
