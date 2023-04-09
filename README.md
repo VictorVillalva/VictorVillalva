@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="200">
     <h1 align="center">Hi👋, I´m Victor Villalva </h1>
     <h3 align="center">
-        I´m a Web Desing from Mexico 🟩⬜🟥. I like the mobile or web interface design too much and a little bit of everything too 🫰.
+        I´m a Web Desing from Mexico 🟩⬜🟥. I like mobile or web interface design too much and a little bit of everything too 🫰.
     </h3>
 </div>
 
