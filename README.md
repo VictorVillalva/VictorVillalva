@@ -44,3 +44,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorvillalva&layout=dark)](https://github.com/victorvillalva/github-readme-stats)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
