@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="200">
     <h1 align="center">Hi👋, I´m Victor Villalva </h1>
     <h3 align="center">
-        I´m a Web Desing from Mexico 🟩⬜🟥. I like mobile or web interface design too much and a little bit of everything too 🫰.
+        I'm a web designer in process... I like web interface design and a little bit of everything too 🫰.
     </h3>
 </div>
 
@@ -10,6 +10,7 @@
     <a href="https://twitter.com/villalva2003">
         <img src="https://img.shields.io/twitter/follow/villalva2003?color=blue&logo=Twitter&style=for-the-badge" alt="Twitter-Bagde">
     </a>
+    
 </div>
 
 ---
@@ -17,7 +18,7 @@
 ### 😎 About Me : 
 - 📌 I know use **FIGMA** 
 
-- 📌 I have worked with **React-Vite, NodeJS**
+- 📌 I worked with **React-Vite, NodeJS**
 
 - 📌 Ask me about **HTML, CSS, JAVA, BOOTSTRAP**
 
