@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="200">
     <h1 align="center">Hi👋, I´m Victor Villalva </h1>
     <h3 align="center">
-        I'm a web designer in process... I like web interface design and a little bit of everything too 🫰.
+        I´m a web developer in process... I can make a web interfaces, mobile interfaces and a little bit of everything too 🫰.
     </h3>
 </div>
 
@@ -10,7 +10,6 @@
     <a href="https://twitter.com/villalva2003">
         <img src="https://img.shields.io/twitter/follow/villalva2003?color=blue&logo=Twitter&style=for-the-badge" alt="Twitter-Bagde">
     </a>
-    
 </div>
 
 ---
@@ -50,9 +49,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/Reus">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Reus&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
-
