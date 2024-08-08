@@ -37,18 +37,28 @@
 
 ---
 
-### My Stats 📊 : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictorVillalva&theme=halloween&hide_border=true&border_radius=5.5&locale=es&border=EB545400)](https://git.io/streak-stats)
+### 📊 My Stats 📊 : 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=VictorVillalva&theme=halloween&hide_border=true&border_radius=5.5&locale=es&border=EB545400)](https://git.io/streak-stats)
 
 ![Victor´s GitHub stats](https://github-readme-stats.vercel.app/api?username=victorvillalva&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorvillalva&layout=dark)](https://github.com/victorvillalva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorvillalva&layout=dark)](https://github.com/victorvillalva/github-readme-stats) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorvillalva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorvillalva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=victorvillalva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=victorvillalva&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorvillalva&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
-
+---
+### 🎵 My songs 🎵
 <div align="center">
   <a href="https://open.spotify.com/user/gwosac3my3k8y06pud4nprl5g">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=gwosac3my3k8y06pud4nprl5g&count=5" alt="Spotify recently played"  />
