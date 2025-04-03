@@ -1,8 +1,12 @@
+
+![Header](./Image/github-header-image.png)
+
+---
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="200">
     <h1 align="center">Hi👋, I´m Victor Villalva </h1>
     <h3 align="center">
-        I´m a web developer in process... I can make a web interfaces, mobile interfaces and a little bit of everything too 🫰.
+        I´m a front-end Developer, I can make a web interfaces, mobile interfaces and a little bit of everything too 🫰.
     </h3>
 </div>
 
@@ -73,3 +77,5 @@
 </div>
 
 ###
+![Footer](./Image/Cover_Linkedin.png)
+
