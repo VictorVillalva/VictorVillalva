@@ -1,5 +1,5 @@
 
-![Header](./Image/github-header-image.png)
+![Header](./Image/Cover_Linkedin.png)
 
 ---
 <div id="header" align="center">
@@ -36,6 +36,18 @@
         <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40" />&nbsp;  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40" />&nbsp;  
+    </div>
+</div>
+
+<div align="left">
+    <h3> ⚒ Tools : </h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40" />&nbsp;
     </div>
 </div>
 
